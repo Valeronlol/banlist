@@ -7,5 +7,4 @@
 ! custom ban list
 !
 
-
 ||sun9-*.userapi.com^
