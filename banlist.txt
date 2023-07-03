@@ -7,8 +7,5 @@
 ! custom ban list
 !
 
-||sun9-19.userapi.com^
-||sun9-20.userapi.com^
-||sun9-21.userapi.com^
-||sun9-79.userapi.com^
-||sun9-80.userapi.com^
+
+||sun9-*.userapi.com^
